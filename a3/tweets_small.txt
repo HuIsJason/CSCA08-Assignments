@@ -1,0 +1,19 @@
+UofTCompSci:
+20181108132750,Unknown Location,Twitter for Android,0,5
+RT @_AlecJacobson: @UofTCompSci St. George (Downtown) Campus is hiring in Computational Geometry for a Tenure Stream Faculty Position. Tell your friends!
+
+https://t.co/O9Oui82dEA
+<<<EOT
+20181106202405,Toronto Ontario,Twitter for Android,6,1
+Congratulations to all our fall graduates!  https://t.co/iRXYwYUAKa
+<<<EOT
+20181104014855,Unknown Location,Twitter for Android,0,2
+RT @UaigUoft: And... it's a wrap!
+
+Thank you to all our speakers, sponsors, and attendees for making #StartAI an unforgettable experience for us. We hope you feel the same. 
+
+Tweet us your StartAI photos! https://t.co/5zi4AAAyfS
+<<<EOT
+20181103122515,Toronto Ontario,Twitter for Android,5,0
+Today! @nickfrosst is a panelist at #StartAI!  #uoftalumni #UofT https://t.co/k50ea9qKhb (via @UofTNews)
+<<<EOT

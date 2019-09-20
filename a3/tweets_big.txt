@@ -1,0 +1,205 @@
+UofTCompSci:
+20181109190529,Unknown Location,Twitter for Android,0,27
+RT @UofT: A century after the armistice, #UofTRemembers all those who served including the 5,691 recorded #UofT students, staff, faculty &amp; @uoftalumni. See how our community experienced WWI. #RemembranceDay https://t.co/luKdD1WwGV
+<<<EOT
+20181109125755,Unknown Location,Twitter for Android,0,7
+RT @helenissocial: Amazing two days on the @ucentralasia #Naryn campus. I facilitated the first ever #Entrepreneurship Jam for all #computerscience students We also had a special guest join the audience at our jam: Prince Aly Muhammad Aga Khan #Kyrgyzstan https://t.co/aARsrt1l5U
+<<<EOT
+20181108132750,Unknown Location,Twitter for Android,0,5
+RT @_AlecJacobson: @UofTCompSci St. George (Downtown) Campus is hiring in Computational Geometry for a Tenure Stream Faculty Position. Tell your friends!
+
+https://t.co/O9Oui82dEA
+<<<EOT
+20181106224512,Unknown Location,Hootsuite Inc.,5,3
+"The most obvious route to a career in #AI is through studying #STEM, but it is not the only one." https://t.co/DINXd2tMY6 (via @globeandmail)
+<<<EOT
+20181106202405,Toronto Ontario,Twitter for Android,6,1
+Congratulations to all our fall graduates!  https://t.co/iRXYwYUAKa
+<<<EOT
+20181106200513,Unknown Location,Hootsuite Inc.,0,0
+#UofT's Geoffrey Hinton is internationally regarded as one of the pioneers for his work on #deeplearning, and his research stretches back over decades https://t.co/DINXd2tMY6 (via @globeandmail)
+<<<EOT
+20181106190626,Unknown Location,Twitter Web Client,0,4
+RT @jangle: We've got a whole lot of faculty positions open this year at @UofTCompSci! Come work with me! https://t.co/pqDAK5Vymk
+<<<EOT
+20181106000749,Unknown Location,Twitter Web Client,0,19
+RT @uoftacorn: System update: ACORN, ROSI Alumni Transcripts, Degree Explorer, MyRes &amp; VBRS will be unavailable from Nov 16 at 4pm to Nov 19 at 8am. (EST). U of T is upgrading ACORN to improve performance for faster registration. Thank you for your patience as we transition to the new system.
+<<<EOT
+20181104014855,Unknown Location,Twitter for Android,0,2
+RT @UaigUoft: And...it s a wrap!
+
+Thank you to all our speakers, sponsors, and attendees for making #StartAI an unforgettable experience for us. We hope you feel the same. 
+
+Tweet us your StartAI photos! https://t.co/5zi4AAAyfS
+<<<EOT
+20181104014759,Unknown Location,Twitter for Android,0,4
+RT @ROSSIntel: Our very own CTO/Cofounder @findingjimoh spoke earlier today at #StartAI in Toronto separating #AI hype from reality along w/@Layer6AI's @JordanJacobs10, @Google's @nickfrosst, @dessa's @RagavanThurair and of course, the godfather of #deeplearning himself, Geoffrey Hinton!   https://t.co/ZdSyhNLCSv
+<<<EOT
+20181104014753,Unknown Location,Twitter for Android,0,4
+RT @iamaidang: So stoked about Ivan Zhang (@1vnzh) speaking to undergraduates about https://t.co/OP4txRZCVP at #StartAI!   https://t.co/TgwoC3ULOp Immediately following the brilliant @nickfrosst &lt;3
+<<<EOT
+20181103202926,Unknown Location,Twitter for Android,0,2
+RT @UaigUoft: Hear the origin story and an incredible demo of @smartARMca     #StartAI
+<<<EOT
+20181103181304,Unknown Location,Twitter Web Client,0,3
+RT @UaigUoft: Our second panel is in effect! Tweet your questions with #StartAI     https://t.co/8iWRm2vQpy
+<<<EOT
+20181103170939,Unknown Location,Twitter Web Client,0,62
+RT @A_Aspuru_Guzik: My group is looking for #computerscience graduate students for automated robotic chemical discovery. Collaborating with @florian_shkurti on m next generation of autonomous #chemistry experimentation. Come to @UofT @UofTCompSci @VectorInst https://t.co/9xULqtmspa @MICleanEnergyRD
+<<<EOT
+20181103170925,Unknown Location,Twitter Web Client,0,2
+RT @UofTHatchery: Thank you @UaigUoft for having us at #startai   
+
+ Trick question: How many Hatchery blue shirts do you see?   https://t.co/BNvLXqlzXZ
+<<<EOT
+20181103161645,Unknown Location,Twitter Web Client,0,2
+RT @UaigUoft: Livestream #StartAI on YouTube at https://t.co/d3IVbNcf4l  
+<<<EOT
+20181103161630,Unknown Location,Twitter Web Client,0,4
+RT @godwinchan37: Great talk by @nickfrosst on how capsule networks are resilient to attacks by adversarial examples #StartAI #UofTAI https://t.co/mb2xkIP4Ik
+<<<EOT
+20181103132831,Unknown Location,Twitter for Android,0,1
+RT @nickfrosst: @UofTCompSci @UofTNews I'm excited to be here :)
+<<<EOT
+20181103130922,MaRS Discovery District,Twitter for Android,13,4
+"This first trick is to get the best graduate students,"  #UofT University Professor Emeritus Geoffrey Hinton on his research and breakthrough in #DeepLearning. #StartAI https://t.co/HjMy6Y8Ss7
+<<<EOT
+20181103130439,MaRS Discovery District,Twitter for Android,0,1
+"Something special is going on here..." @UaigUoft president speaks to the #AI opportunities in Toronto. #StartAI "Climb to your own place on the hill." https://t.co/Vl3B54QZRR
+<<<EOT
+20181103124427,MaRS Discovery District,Twitter for Android,2,0
+Ready to #StartAI @UofT! https://t.co/PxQ6FKud0Q
+<<<EOT
+20181103122515,Toronto Ontario,Twitter for Android,5,0
+Today! @nickfrosst is a panelist at #StartAI!  #uoftalumni #UofT https://t.co/k50ea9qKhb (via @UofTNews)
+<<<EOT
+UofTArtSci:
+20181109193619,Unknown Location,Twitter Web Client,1,0
+From a family of 12 kids in a Kenyan village, this #UofT grad is working to help other women get an education https://t.co/UnUMe9zMn4
+<<<EOT
+20181109163311,Unknown Location,Twitter Web Client,1,0
+ There can be no freedom unless there s a power to deny freedom : Meet early American historian Max Mishler #UofT https://t.co/4mwXyVYSqM
+<<<EOT
+20181106165942,Unknown Location,Twitter Web Client,0,1
+Making language learning more interactive and fun: @spanportuoft assistant professor Juan Carlos Rocha Osornio introduces community engagement and cultural experiences to help #UofT students learn Spanish https://t.co/a3SEqF1d9G
+<<<EOT
+20181105135741,Unknown Location,Twitter Web Client,0,25
+RT @UofT: #UofTGrad18 Fall Convocation starts today!
+Class of 2018, This Is Your Moment.  
+https://t.co/5qz2Dv1Mah https://t.co/xrOiCj9QVw
+<<<EOT
+20181102180000,Unknown Location,TweetDeck,0,0
+New crystallography technique provides better atomic view of biomolecules #UofT https://t.co/jAPDzhaNFL
+<<<EOT
+20181102140000,Unknown Location,TweetDeck,1,2
+Unprecedented gift advances Ukrainian studies at #UofT https://t.co/PvDvOylQVR
+<<<EOT
+20181101153938,Unknown Location,Twitter Web Client,5,1
+Celebrate Dia de los Muertos with @spanportuoft today from 12 to 2 p.m. in the Victoria College 2nd floor foyer. There'll be food, music, culture &amp; history   don't miss out! https://t.co/h8Ag4REDPO
+<<<EOT
+20181101140438,Unknown Location,Twitter Web Client,0,9
+RT @UofT: Join @HartHouseUofT today from 11:30-12:30 to celebrate the Indigenous Language Spots Exhibition. Meet the contributors to the exhibition over some tea &amp; learn more about Indigenous language opportunities at #UofT. https://t.co/nyJsOVIkUz https://t.co/Osb5a4aH6T
+<<<EOT
+20181030195012,Unknown Location,Twitter Web Client,0,6
+RT @UofT: Check out the new Indigenous Language exhibit @HartHouseUofT. Featuring audio recordings by #UofT Prof. Ryan DeCaire speaking Kanien k ha, Mohawk language &amp; describing the meanings of the words in English. https://t.co/AMH1PdJ7R9 https://t.co/XLEKTEejuZ
+<<<EOT
+20181029185741,Unknown Location,Twitter Web Client,7,7
+#UofT remembers Joyce Fienberg, killed in the Pittsburgh synagogue shooting https://t.co/Lej1T5jAIZ
+<<<EOT
+20181026191323,Unknown Location,Twitter Web Client,0,4
+RT @UofT: #UofT Women &amp; Gender Studies (@wgsi) PhD candidate @GwenBenaway writes about U.S. efforts to limit gender designation to biological birth status. https://t.co/ZdTpO9pznz via @MacLeans https://t.co/WMktfeTqye
+<<<EOT
+20181026184722,Unknown Location,Twitter Web Client,1,1
+#UofT working to establish a research centre and archaeological park in Turkey s Amuq Valley https://t.co/ye0v41px6u
+<<<EOT
+20181026184500,Unknown Location,TweetDeck,0,0
+Are @Uber and public transit friends or foes? It depends on the size of city, #UofT study finds     https://t.co/hjG2vooQoE
+<<<EOT
+20181026153001,Unknown Location,TweetDeck,0,0
+Meet two #UofT faculty members honoured by @OCUFA for outstanding teaching   https://t.co/lkw97nFlVD
+<<<EOT
+20181025180841,Unknown Location,Twitter Web Client,0,18
+RT @UofT: A murderous feud, ghost &amp; coffee. Read the chilling tale of Reznikoff &amp; Diabolos. #UofT    https://t.co/wORGphyxSq   #TBT via @narratively https://t.co/4MQdbRAuJs
+<<<EOT
+20181025134357,Unknown Location,Twitter Web Client,0,22
+RT @UofT: #UofT ranked #1 on Canada s Top 50 Research Universities 2018 list by @R_Infosource.    https://t.co/0W8GpOLMNo https://t.co/SIPA0f15Cj
+<<<EOT
+20181024183526,Unknown Location,Twitter Web Client,0,5
+RT @UofT: Get your costume ready &amp; come out to @UofTSU &amp; @MoveUofT's annual Scary Skate this #Halloween! FREE to all for #UofT students with a T-card. There will be zombie archery, treats, prizes for best costumes &amp; more!   https://t.co/DLT7QsfKdv https://t.co/xMYFpbhCRb
+<<<EOT
+20181024140001,Unknown Location,TweetDeck,8,4
+Honouring Frankenstein s 200th anniversary: @uStMikes and @UofTEnglish scholars hold week-long celebration #UofT #Frankenstein200   https://t.co/3fAMv1zpbn
+<<<EOT
+20181022145203,Unknown Location,Twitter Web Client,2,1
+Sharing the joys of opera: the Department of Slavic Languages and Literatures and @CanadianOpera explore Eugene Onegin from novel in verse to opera #UofT #COCOnegin https://t.co/KdfMyL8ZwZ 
+ : Michael Cooper https://t.co/LaDy56mFCQ
+<<<EOT
+UofT:
+UTSC:
+20181110171628,Unknown Location,Twitter Web Client,1,0
+Welcome to all the prospective students touring campus today for #UTSC Fall Campus Day! It's a great turnout and our fabulous student tour guides and academic department representatives are helping everyone with questions. https://t.co/7CjzaeJLSd
+<<<EOT
+20181110171101,Unknown Location,Buffer,0,4
+RT @JosephWongUT: I love this story about learning abroad   about global health, about his roots, and about himself @UTSC @global_uoft @UofT 
+
+ https://t.co/AlmJeH0FdQ
+<<<EOT
+20181110171058,Unknown Location,TweetDeck,1,0
+@JosephWongUT @global_uoft @UofT Thank you for reading! Lots of people being inspired by @mobeenlalani :)
+<<<EOT
+20181110170603,Unknown Location,TweetDeck,1,0
+@brandonzoras @staoapso @cindcos Wow! Congratulations!
+<<<EOT
+20181110170023,Unknown Location,Twitter for Android,0,1
+RT @UTSC_IDS: Fall Campus Day happening now! @UTSC Stop by to learn about the great programs and see the beautiful campus https://t.co/l9OHoRmWSQ
+<<<EOT
+UTM:
+20181110003300,Unknown Location,Sprout Social,3,1
+Meet assistant professor of geography Vincent Kuuire, who studies immigration and psychosocial well-being in Canada. #MeetTheNewProfs #UofT @utmggrenv @UTM_Research https://t.co/TqAppNU5ZT https://t.co/Jnak2d0881
+<<<EOT
+20181109212542,Unknown Location,Sprout Social,0,1
+RT @UTM_Athletics: Thank you to everyone who came to our intramural table tennis tournament with @utm ping pong club! Congratulations to our winner and finalists! If you want to know more about our intramurals go to https://t.co/Ydpm550rp9     
+#intramural #pingpong #tabletennis #fun #utm https://t.co/oqr3lqGQJo
+<<<EOT
+20181109193008,Unknown Location,Sprout Social,5,3
+'Chew on This': Two new studies from @UTMBiology prof Robert Reisz and PhD student Aaron LeBlanc reveal secrets of early dinosaur and mammal tooth evolution &gt; https://t.co/sWQn6w30im #fossilfriday #cretaceous https://t.co/C4GXWM8hBW
+<<<EOT
+20181109164255,Unknown Location,Sprout Social,32,8
+Thank you to all who gathered for this morning's Remembrance Day ceremony. #LestWeForget #UofT https://t.co/ldnfFu8fHC
+<<<EOT
+20181109143301,Unknown Location,Sprout Social,8,5
+Lest We Forget: Faculty, staff, students and visitors are invited to attend a Remembrance Day ceremony at 10:40 a.m., Friday, Nov. 9, 2018, at the flagpole in front of the William G. Davis Building. https://t.co/axwUai1ITx
+<<<EOT
+20181109003301,Unknown Location,Sprout Social,4,0
+Meet assistant professor of geography Vincent Kuuire, who studies immigration and psychosocial well-being in Canada. #MeetTheNewProfs #UofT @utmggrenv @UTM_Research https://t.co/TqAppNU5ZT https://t.co/39rnattuBP
+<<<EOT
+20181108215208,Unknown Location,Sprout Social,0,7
+RT @Alex_Young14: At @UTM any time before December 18? Swing by @UTMlibrary to check out this incredible display about the use of #graphicmedicine for patient education! It's part of an exhibit from @nlm_news and put on in part by @MScBMC (yay my program) https://t.co/LNFfejL4Oy
+<<<EOT
+20181108174143,Unknown Location,Sprout Social,0,1
+RT @UTM_Athletics: It s Game Day Eagle Fans 
+
+@UTM Varsity Basketball teams are on the road today vs. @NC_Knights
+
+Women Tip-off @ 6pm
+Men Tip-off @ 8pm
+
+Check-our the https://t.co/kDwEhT0Jki to watch the game live!
+
+We all #eagles  
+
+#eaglestrong #utmsports #utmbasketball #ballislife  #eagles https://t.co/oRb60ks72d
+<<<EOT
+UofTNews:
+20181109220102,Unknown Location,Sprout Social,10,6
+Courage &amp; sacrifice: A look back at #UofT during the First World War  #UofTRemembers https://t.co/9ick2TFdvY
+<<<EOT
+20181109213515,Unknown Location,Sprout Social,9,3
+More than ever, the world needs leaders and problem-solvers, says George Myhal in his convocation address #UofT https://t.co/poDzW8acVC
+<<<EOT
+20181109151512,Unknown Location,Sprout Social,25,15
+Then &amp; now: Take a look at these photos of the First World War on campus #UofTRemembers   #UofT https://t.co/3MBFfTJjdi
+<<<EOT
+20181109141503,Unknown Location,Sprout Social,11,2
+Meet five impressive graduating students who got the most of their #UofT experience #UofTGrad18 https://t.co/ZCa9uH8R8h
+<<<EOT
